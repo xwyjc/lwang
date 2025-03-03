@@ -357,8 +357,8 @@
     {"key":"csp_XYQHiker_moav","name": "🔞MOAV(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/moav.json","style": {"type": "rect","ratio": 1.6}},
     {"key": "csp_91黑料","name": "🔞91黑料","type": 3,"api": "csp_XBPQ","filterable": 1,"ext": {  "主页url": "https://kb17.oneoneno8cd345.xyz/one",  "首页": "400",  "请求头": "User-Agent$PC_UA",  "数组": "<a&&</a>[不包含:91网曝黑料网#最近更新]",  "二次截取": "<div class=\"videoListBox\"&&el-paginationis-background",  "标题": "title\">&&</p>",  "副标题": "time\">&&</div>",  "链接": "https://kb17.oneoneno8cd345.xyz/v/+href=\"/voddetail/&&/\"+/sid/1/nid/1/",  "图片": "data-src=\"&&\"",  "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",  "搜索url": "https://kb17.oneoneno8cd345.xyz/s/wd/{wd}/",  "分类url": "https://kb17.oneoneno8cd345.xyz/t/{cateId}-{catePg}/;;z",  "分类数组": "<a&&</a>",  "分类标题": ">&&</a>",  "分类ID": "/t/&&/"},"jar": "./jar/hl.jar"},
 
-    {"key": "91黑料","name": "🔞91黑料","type": 3,"api": "csp_XBPQ","jar": "./jar/XBPQ.jar","filterable": 1,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/91黑料.json"},
-    {"key": "J91","name": "🔞91珍惜","type": 3,"api": "csp_J91","filterable": 1,"jar": "./jar/182.jar"},
+    {
+   
     {"key": "csp_JavBus","name": "🔞JavBus","type": 3,"api": "csp_JavBus","jar":"./jar/pg.jar","ext": "./lib/tokenm.json$$$https://www.cdnbus.shop","filterable": 1,"changeable": 0,"style": {"type": "rect", "ratio": 1.77},"timeout": 60},
     {"key": "csp_JavDb","name": "🔞JavDb","type": 3,"api": "csp_JavDb","jar":"./jar/pg.jar","ext": "./lib/tokenm.json$$$1","filterable": 1,"changeable": 0,"style": {"type": "rect", "ratio": 1.77},"timeout": 60},
     
