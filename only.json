@@ -6,7 +6,7 @@
   //https://ghfast.top/https://raw.githubusercontent.com/serein2494/TVBOX/main/0914-only-sex.json  
   //https://github.com/m3u8playlist/dp/tree/9b716f0fcebc40dd198772ad89d1f0c8b99d8367/iplayr
   "sites": [
-    {"key": "麻豆","name": "👊【撸到出血為止！-麻豆】👊","type": 3,"changeable": 1,"filterable": 1,"api": "csp_XBPQ","jar": "./jar/xyqxbpq.jar","style": {"ratio": 1.7},"ext": {  "搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",  "分类": "日本视频$1#麻豆视频$2",  "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",  "直接播放": "1"}},
+    {"key": "麻豆","name": "👊【撸到出血為止！-麻豆】👊","type": 3,"changeable": 1,"filterable": 1,"api": "csp_XBPQ","jar": "./jar/xyqxbpq.jar","style": {"ratio": 1.7},"ext": {  "搜索url": "http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",  "分类": "日本视频$1#麻豆视频$2#国产视频$3",  "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",  "直接播放": "1"}},
     //{"key":"Xojav","name":"XOJav","type":3,"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/350822/Xtvbox/main/pg.jar","api":"csp_Xojav","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"null$$$proxy","style":{"type":"rect","ratio":1.5}},
     
     {"key": "xvideos4中文","name": "🔞xvideos4中文","type": 3,"api": "csp_XBPQ","jar": "./jar/XBPQ.jar","ext": {  "直接播放": "1",  "数组": "<li>&&</li>",  "链接": "href=\"&&\"",  "图片": " src=\"&&\"",  "标题": "title=\"&&\"",  "播放链接前缀": "https://iktvoc.xvideos4.hair/",  "播放标题": ">&&</a>",  "播放链接": "href=\"&&\"",  "分类url": "https://dpmnmv.xvideos4.hair/vodtype/{cateId}-{catePg}.html",  "分类": "女神$21#美女直播$22#人妻$23#动漫$35#无码$30#有码$31#中文字幕$32#三级伦理$36"}},
@@ -26,7 +26,7 @@
 	{"key":"csp_XYQHiker_5x社区","name": "🔞5x社区(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/5x社区.json","style": {"type": "rect","ratio": 1.6}},
    {"key":"csp_XYQHiker_小嫂子av","name": "🔞小嫂子AV(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/小嫂子av.json","style": {"type": "rect","ratio": 1.6}},
 	{"key":"JAVDAYTV","name":"🔞JAVDAYTV(XYQHiker)","type":3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/javday.json","style": {"type": "rect","ratio": 1.6}},
-	{"key":"csp_XYQHiker_兄弟","name": "🔞AV兄弟","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/av兄弟.json","style": {"type": "rect","ratio": 1.6}},
+	//{"key":"csp_XYQHiker_兄弟","name": "🔞AV兄弟","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/av兄弟.json","style": {"type": "rect","ratio": 1.6}},
 	 {"key":"csp_XYQHiker_18jtv🔞","name":"🔞18j(XYQHiker)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/18jtv.json","style": {"type": "rect","ratio": 1.6}},
 	 
 	 //{"key":"csp_XYQHiker_rjav.com","name": "🔞Rjav.com(XYQHiker)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/rjav.json","style": {"type": "rect","ratio": 1.6}},   
@@ -193,28 +193,7 @@
 				"排序": "热门$hits#点赞$up#评分$score"
 			}
 		},
-		{
-			"key": "艾草影院网",
-			"name": "🔞艾草┃影院",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"jar": "./jar/xyqxbpq.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": {
-				"请求头": "User-Agent$MOBILE_UA",
-				"编码": "UTF-8",
-				"主页url": "https://188zsw.com/0/",
-				"数组": "<div class=\"pic\">&&</li>",
-				"标题": "html\">&&</a>",
-				"图片": "image: url('&&')",
-				"副标题": "<span>&&</span>",
-				"链接": "href=\"&&\"",
-				"分类url": "https://188zsw.com/{cateId}-{catePg}/;;z",
-				"分类": "国产大制作$387#乱伦毁三观$388#嫖妓全过程$389#淫乱学生妹$390#黑料不打烊$391#高清无码$394#中文字幕$395#成人综艺$396#东南亚$409"
-			}
-		},
+		
 		{
 			"key": "Aries提供技术支持最爱",
 			"name": "🔞👙男模👙",
@@ -503,7 +482,7 @@
     {"key":"csp_XYQHiker_444咖啡","name": "🔞444咖啡","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/444咖啡.json","style": {"type": "rect","ratio": 1.6}},
     {"key": "Cg51","name": "🔞51吃瓜","type": 3,"api": "csp_Cg51","filterable": 1,"jar": "./jar/182.jar"},
     
-    {"key":"csp_XYQHiker_airav","name": "🔞AirAV","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/airav.json","style": {"type": "rect","ratio": 1.6}},
+    {"key":"csp_XYQHiker_airav","name": "🔞AirAV","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "{catePg}/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/airav.json","style": {"type": "rect","ratio": 1.6}},
   
  
     {"key":"csp_XYQHiker_av淘宝","name": "🔞av淘宝","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/av淘宝.json","style": {"type": "rect","ratio": 1.6}},
