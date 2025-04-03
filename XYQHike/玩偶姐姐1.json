@@ -10,7 +10,7 @@
 "副标题":"<div class=\"date\">&&</div>",
 "搜索模式":"1",
 "搜索数组":"<div class=\"video-item\">&&</div></div>",
-"搜索图片":"src=\"&&\"",
+"搜索图片":"data-src=\"&&\"",
 "搜索标题":"title=\"&&\"",
 "搜索链接":"href=\"&&\"",
 "搜索副标题":"<div class=\"date\">&&</div>",
