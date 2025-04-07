@@ -14,7 +14,7 @@
 "首页片单列表数组规则": ".col oneVideo",
  //"首页片单列表数组规则": ".m_vedio",
 "首页片单是否Jsoup写法": "1",
-"首页片单标题": "a&&alt&&Text",
+"首页片单标题": "a&&alt",
 "首页片单链接": "a&&href",
 "首页片单图片": "img[src*=storage]&&src",
 "首页片单副标题": "'👁️'+.click_count&&Text",
