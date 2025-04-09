@@ -30,7 +30,7 @@
     "首页片单链接加后缀": "",
     "分类起始页码": "1",
     //"分类链接": "https://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html",
-	"分类链接": "https://xchina.co/videos/{cateId}/{by}{catePg}.html",
+	"分类链接": "https://xchina.co/videos/{cateId}/{by}/{catePg}.html",
     "分类名称": "中文AV&日本AV&模特私拍&业余拍摄&其他影片&情色电影",
     "分类名称替换词": "series-63824a975d8ae&series-620621671946&series-6030196781d85&series-617d3e7acdcc8&series-60192e83c9e05&series-61c4d9b653b6d",
     //"筛选数据":{},
