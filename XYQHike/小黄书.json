@@ -8,7 +8,7 @@
     "图片是否需要代理":"0",
     "是否开启获取首页数据":"1",
 	 //首页推荐数据获取链接
-    "首页推荐链接": "https://xchina.co",
+    "首页推荐链接": "https://xchina.blog",
     //首页推荐列表数组截取。
     "首页列表数组规则": ".videos",
     //首页推荐片单列表数组定位。
@@ -21,16 +21,16 @@
     //首页推荐片单链接
     "首页片单链接": "a&&href",
     //首页推荐片单图片，支持自定义图片链接
-    "首页片单图片": "a&&style&&Text",
+    "首页片单图片": "a&&style=background-image: url('&&')",
     //首页推荐片单副标题
     "首页片单副标题":".duration",
     //首页推荐片单链接补前缀  
-    "首页片单链接加前缀": "https://xchina.co",
+    "首页片单链接加前缀": "https://xchina.blog",
     //首页推荐片单链接补后缀
     "首页片单链接加后缀": "",
     "分类起始页码": "1",
     //"分类链接": "https://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{catePg}.html",
-	"分类链接": "https://xchina.co/videos/{cateId}/{by}/{catePg}.html",
+	"分类链接": "https://xchina.blog/videos/{cateId}/{by}/{catePg}.html",
     "分类名称": "中文AV&日本AV&模特私拍&业余拍摄&其他影片&情色电影",
     "分类名称替换词": "series-63824a975d8ae&series-620621671946&series-6030196781d85&series-617d3e7acdcc8&series-60192e83c9e05&series-61c4d9b653b6d",
     //"筛选数据":{},
@@ -41,10 +41,10 @@
     "分类片单链接": ".text&&a&&href",
     "分类片单图片": "video&&poster",
     "分类片单副标题":"'⏱️'+.duration&&Text+.series&&Text",
-    "分类片单链接加前缀": "https://xchina.co",
+    "分类片单链接加前缀": "https://xchina.blog",
     "分类片单链接加后缀": "",
     "搜索请求头参数":"User-Agent$手机",
-    "搜索链接": "https://xchina.co/index.php/ajax/suggest?mid=1&wd={wd}",
+    "搜索链接": "https://xchina.blog/index.php/ajax/suggest?mid=1&wd={wd}",
     "POST请求数据":"0",
     "搜索截取模式": "0",
     "搜索列表数组规则": "list",
@@ -53,7 +53,7 @@
     "搜索片单标题": "name",
     "搜索片单链接": "id",
     "搜索片单副标题":"",
-    "搜索片单链接加前缀": "https://xchina.co/index.php/vod/detail/id/",
+    "搜索片单链接加前缀": "https://xchina.blog/index.php/vod/detail/id/",
     "搜索片单链接加后缀": ".html",
        //--------
          "链接是否直接播放": "1",
