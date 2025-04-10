@@ -17,7 +17,8 @@
 "首页片单链接加前缀": "",
 "首页片单链接加后缀": "",
 "分类起始页码": "1",
-"分类链接": "https://cn.xszav2.com/c/{cateId}?page={catePg}",
+//"分类链接": "https://cn.xszav2.com/c/{cateId}?page={catePg}",
+  "分类链接": "https://cn.xszav2.com/c/{cateId}?o={by}&page={catePg}",
 //https://iook1.cc/vodtype/1-2.html
 //https://iook1.cc/label/new/page/1.html
 //"分类链接":"https://iookk.cc/vodshow/{cateId}--{by}------{catePg}---.html"
